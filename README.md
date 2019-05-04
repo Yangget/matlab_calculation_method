@@ -8,3 +8,30 @@
  #### 3. 方程的近似解法——迭代法（Approximate solution of equations - iterative method）
  #### 4. 最小二乘拟合多项式（Least squares fitting polynomial）
  #### 5. 数值积分（Numerical integration）
+
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+.
+├── Approximate solution of equations - iterative method
+│   ├── aitken.m
+│   ├── niudun.m
+│   ├── README.md
+│   └── yiban.m
+├── Iterative Solution of Linear Equations
+│   ├── gauss_seidel.m
+│   ├── jacobi.m
+│   └── README.md
+├── Least squares fitting polynomial
+│   ├── README.md
+│   └── untitled.jpg
+├── Numerical integration
+│   ├── compute_g.m
+│   ├── compute.m
+│   ├── compute_r.m
+│   ├── gauss.m
+│   ├── README.md
+│   ├── romberg.m
+│   └── untitled.jpg
+├── Polynomial evaluation
+│   ├── qinjiushao.m
+│   └── README.md
+└── README.md
