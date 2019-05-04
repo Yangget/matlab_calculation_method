@@ -3,7 +3,7 @@
  
  ----------------------------------------------------------------------------
  
- # 1. 多项式求值（Polynomial evaluation）
- # 2. 线性方程组的迭代解法（Iterative Solution of Linear Equations）
- # 3. 方程的近似解法——迭代法（Approximate solution of equations - iterative method）
- # 4. 最小二乘拟合多项式（Least squares fitting polynomial）
+ #### 1. 多项式求值（Polynomial evaluation）
+ #### 2. 线性方程组的迭代解法（Iterative Solution of Linear Equations）
+ #### 3. 方程的近似解法——迭代法（Approximate solution of equations - iterative method）
+ #### 4. 最小二乘拟合多项式（Least squares fitting polynomial）
