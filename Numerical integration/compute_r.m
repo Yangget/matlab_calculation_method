@@ -1,7 +1,7 @@
 %计算（/1+X^2）在0到1上面的积分  
 a = 0  
 b = 1  
-epsilon = 5e-6  
+epsilon = 1e-9  
 f = @(x) (1 + x^2)^(1/2);  
 y = romberg(f,a,b,epsilon)   
 

@@ -1,7 +1,5 @@
 function [R,k,T]=romberg(fun,a,b,tol)  
 % 龙贝格(Romberg数值求解公式)  
-% author:  
-%   -gongwanlu  
 % inputs:  
 %   -fun：积分函数句柄  
 %   -a/b：积分上下限  
@@ -30,6 +28,7 @@ end
 n=n*2;  
 err=abs(T(k+1,k+1)-T(k,k));  
 end  
-R=T(k+1,4);  
+R=T(k+1,4);
+fprintf('%.9f',R)  
 
 
