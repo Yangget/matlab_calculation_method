@@ -13,51 +13,31 @@
 
 ## 文件结构
 
-
+```shell
+.
 ├── Approximate solution of equations - iterative method
-
 │   ├── aitken.m
-
 │   ├── niudun.m
-
 │   ├── README.md
-
 │   └── yiban.m
-
 ├── Iterative Solution of Linear Equations
-
 │   ├── gauss_seidel.m
-
 │   ├── jacobi.m
-
 │   └── README.md
-
 ├── Least squares fitting polynomial
-
 │   ├── README.md
-
 │   └── untitled.jpg
-
 ├── Numerical integration
-
 │   ├── compute_g.m
-
 │   ├── compute.m
-
 │   ├── compute_r.m
-
 │   ├── gauss.m
-
 │   ├── README.md
-
-│   ├── romberg.m
-
-│   └── untitled.jpg
-
+│   ├── romberg.m
+│   └── untitled.jpg
 ├── Polynomial evaluation
-
 │   ├── qinjiushao.m
-
 │   └── README.md
-
 └── README.md
+
+```
