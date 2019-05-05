@@ -3,31 +3,35 @@
  :smiley:
  ----------------------------------------------------------------------------
  
- #### 1. 多项式求值（Polynomial evaluation）
- #### 2. 线性方程组的迭代解法（Iterative Solution of Linear Equations）
- #### 3. 方程的近似解法——迭代法（Approximate solution of equations - iterative method）
- #### 4. 最小二乘拟合多项式（Least squares fitting polynomial）
- #### 5. 数值积分（Numerical integration）
-
+ #### 1.简介
+ #### 2.线性方程组的数值解法
+ #### 3.方程的近似解法
+ #### 4.差值和数据拟合
+ #### 5.数值积分和数值微分
 ------------------------------------------------------------------------------
 
 ## 文件结构
 
 ```shell
-.
-├── Approximate solution of equations - iterative method
+├── 1.简介
+│   └── 1.秦九韶算法
+│       ├── qinjiushao.m
+│       └── README.md
+├── 2.线性方程组的数值解法
+│   └── 4线性方程组的迭代解法
+│       ├── gauss_seidel.m
+│       ├── jacobi.m
+│       └── README.md
+├── 3.方程的近似解法
 │   ├── aitken.m
 │   ├── niudun.m
 │   ├── README.md
 │   └── yiban.m
-├── Iterative Solution of Linear Equations
-│   ├── gauss_seidel.m
-│   ├── jacobi.m
-│   └── README.md
-├── Least squares fitting polynomial
+├── 4.差值和数据拟合
+│   ├── mafit.m
 │   ├── README.md
 │   └── untitled.jpg
-├── Numerical integration
+├── 5.数值积分和数值微分
 │   ├── compute_g.m
 │   ├── compute.m
 │   ├── compute_r.m
@@ -35,10 +39,9 @@
 │   ├── README.md
 │   ├── romberg.m
 │   └── untitled.jpg
-├── Polynomial evaluation
-│   ├── qinjiushao.m
-│   └── README.md
 └── README.md
+
+
 
 ```
 
